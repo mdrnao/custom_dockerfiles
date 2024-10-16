@@ -17,3 +17,4 @@ Collecting random docker files I've used/created
 
 
 [The Rocker Project - Docker Containers for the R Environment](https://rocker-project.org)
+[Dockerfiler - create docker file from R](https://thinkr-open.github.io/dockerfiler/index.html)
