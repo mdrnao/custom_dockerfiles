@@ -15,6 +15,8 @@ Collecting random docker files I've used/created
 - Starting an image: ```-a``` to add a stdout, ```-i``` for interactive mode. 
 
 
+- Installing R packages using ```apt-get install <package>``` is much quicker 
+
 
 [The Rocker Project - Docker Containers for the R Environment](https://rocker-project.org)
 
