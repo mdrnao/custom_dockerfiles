@@ -14,8 +14,10 @@ Collecting random docker files I've used/created
 - Remove docker options: ```-f``` forces it, ```-v``` also removes volumes
 - Starting an image: ```-a``` to add a stdout, ```-i``` for interactive mode. 
 
+Other bits whilst building:
 
-- Installing R packages using ```apt-get install <package>``` is much quicker 
+- Installing R packages using ```apt-get install <package>``` is much quicker
+- Add ```--platform="linux/amd64"``` to the cli when building on a mac
 
 
 [The Rocker Project - Docker Containers for the R Environment](https://rocker-project.org)
