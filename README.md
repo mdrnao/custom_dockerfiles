@@ -23,3 +23,5 @@ Other bits whilst building:
 [The Rocker Project - Docker Containers for the R Environment](https://rocker-project.org)
 
 [Dockerfiler - create docker file from R](https://thinkr-open.github.io/dockerfiler/index.html)
+
+[r2u is amazing as it allows all CRAN and many bioconductor packages to be installed via apt](https://eddelbuettel.github.io/r2u/)
